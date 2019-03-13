@@ -1,7 +1,7 @@
 # trans-MRI
 quick transfer learning across MRI datasets
 
-## installation:
+### Install:
 
 ```
 pip install git+https://github.com/ben0it8/trans-MRI.git
