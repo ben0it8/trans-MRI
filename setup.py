@@ -12,5 +12,6 @@ setup(name='trans_mri',
       author_email='oliver.atanaszov@gmail.com',
       license='MIT',
       packages=['trans_mri'],
+      python_requires='>3.5',
       install_requires=required,
       zip_safe=False)
